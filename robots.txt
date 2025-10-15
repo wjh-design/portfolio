@@ -1,1 +1,1 @@
-Sitemap: https://portfoliositetest.neocities.org/sitemap.xml
+Sitemap: https://wjh-design.github.io/sitemap.xml
